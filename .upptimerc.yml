@@ -3,24 +3,31 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Schedule I Drugs Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_Schedule_I_drugs_(US)
+  - name: Schedule 2 Drugs Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_Schedule_II_drugs_(US)
+  - name: Schedule 3 Drugs Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_Schedule_III_drugs_(US)
+  - name: Schedule 4 Drugs Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_Schedule_IV_drugs_(US)
+  - name: Schedule 5 Drugs Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_Schedule_V_drugs_(US)
+  - name: FDA Color Additive List
+    url: https://www.fda.gov/industry/color-additive-inventories/color-additive-status-list
+  - name: FDA Tainted Sexual Enhancements
+    url: https://www.fda.gov/drugs/medication-health-fraud/tainted-sexual-enhancement-products
+  - name: Cosmetics Colorant European Chemical Agency
+    url: https://echa.europa.eu/cosmetics-colorant
+ 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+#   cname: demo.upptime.js.org
+  baseUrl: /Uptime-Regulatory-Chemical-Lists
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime Regulatory Chemical Lists** is the open-source uptime monitor and status page for regulatory chemical lists"
   navbar:
     - title: Status
       href: /
